@@ -1,0 +1,90 @@
+.p{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    height: 2rem;*/
+    width: 15rem;
+   /* text-indent: 1000cm;*/
+}
+.i{
+    color: bisque;
+}
+body{
+    background-image: url("IVV.jpeg");
+    background-attachment: fixed;
+    background-position: center;
+    height: 150vh;
+    background-size: cover;
+    background-color:  lightpink;
+    background-repeat: no-repeat;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    }     
+    html{
+    font-size: 62, 5%;
+    }
+.j{
+    background:coral;
+    color:  , red;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    }
+a{
+    text-decoration: none;
+    color: black;
+ }
+ul{
+    text-decoration: none;
+    text-align: center;
+    color: aliceblue;
+}
+nav{
+    min-height: 10vh;
+    display: -webkit-flex;
+    width: 90%;
+    margin: auto;
+    padding: 2rem;
+ }
+nav ul {
+    display: Flex;
+    flex: 1 1 40rem;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    width: 90%;
+    margin: auto;
+    padding: 0rem;
+    
+}
+ #logo{
+    flex: 1 1 40rem
+    }
+    .p{
+        text-align: center;
+    }
+    .M{
+        margin: 0px;
+        padding: 19px;
+    }
+    .O{
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 1px;
+        padding: 15px;
+        text-indent: 1cm;
+    }
+   .CONTAINER{
+        margin: auto;
+        padding: 2cm;
+      display: flex;
+      justify-content: space-around;  
+    }
+    a:hover{
+        background-color: red;
+    }
+    a:visited{
+        background-color: greenyellow;
+    }

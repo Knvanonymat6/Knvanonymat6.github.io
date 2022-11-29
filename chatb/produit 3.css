@@ -1,0 +1,14 @@
+.chat{
+    height: 12vh;
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+    margin: -10px;
+    background-color: gray;
+    
+}
+body{
+    background-image: url("IVV.jpeg");
+    background-position: center;
+    background-size: cover;
+}

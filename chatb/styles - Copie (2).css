@@ -1,0 +1,19 @@
+.CONTAINER{
+    height: 12vh;
+    margin: -10px;
+    padding: 50px;
+  display: flex;
+  justify-content: space-around;
+  background-color: darkgray;
+  /*box-sizing: border-box;*/  
+}
+body{
+    background-image: url("IVV.jpeg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.po{
+    color: antiquewhite;
+}

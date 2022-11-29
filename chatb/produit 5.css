@@ -1,0 +1,70 @@
+body{
+    height: 100vh;
+    background-image: url("IVV.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+.p{
+    text-align: left;
+   }
+
+.btn{
+    display: block;
+    margin: 150px auto 0;
+    font-size: 30px;
+text-decoration: none;
+font-weight: lighter;
+color: aqua;
+padding: 25px 80px;
+background-color: bisque;
+outline: none;
+border: none;
+cursor: pointer;
+border-radius: 20px;
+position: relative;
+box-shadow: 0 6px green ;
+text-decoration: none;
+
+} 
+.btn:hover{
+    box-shadow: 0 4px greenyellow;
+    top: 2px;
+}
+.btn:active{
+    box-shadow: 0 0 red ;
+    top: 6px;
+}
+.btg{
+    display: block;
+    margin: 150px auto 0;
+    font-size: 30px;
+
+font-weight: lighter;
+color: red;
+padding: 25px 80px;
+background-color: bisque;
+border-radius: 20px;
+position: relative;
+box-shadow: 0 6px magenta ;
+text-decoration: none;
+
+} 
+.btg:hover{
+    box-shadow: 0 4px pink;
+    top: 2px;
+}
+.btg:active{
+    box-shadow: 0 0 red ;
+    top: 6px;
+}
+.t{
+    color: beige;
+    text-align: center;
+    font-size: 76px;
+}  
+
+
+
+

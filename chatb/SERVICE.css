@@ -1,0 +1,110 @@
+/*body{
+    margin: ;
+    padding: ;
+    font-family: sans-serif
+ }*/
+.container{
+position: absolute;
+top: 30%;
+left: 20%;
+transform:translate( -50% , -50%) ;
+width: 600px;
+padding: 30px;
+background: red;
+box-sizing: border-box;
+border-radius: 15px ;
+box-shadow: 0 15px 50px rgba(0, 0, 0, -2);
+}
+.circle{
+    width: 200px;
+    height: 200px;
+    background-image: url("AWA.jpg");
+    background-size: 100% 100%;
+    border-radius:  50%;
+    float: left;
+    shape-outside: circle();
+}
+.containers{
+    
+
+    position: relative;
+    top: 50%;
+    left: 52%;
+    /*transform:translate( -50% , -50%) ;*/
+    width: 590px;
+    padding: 60px;
+    background: blueviolet;
+    box-sizing: border-box;
+    border-radius: 15px ;
+    box-shadow: 0 15px 50px rgba(0, 0, 0, -2);
+    
+    }
+    .circles{
+        align-items: 50cm;
+        width: 200px;
+        height: 200px;
+        background-image: url("MARTHE.jpg");
+        background-size: 100% 100%;
+        border-radius:  50%;
+        float: left;
+        shape-outside: circle();
+    }
+    
+    *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+        }     
+        html{
+        font-size: 62, 5%;
+        }
+    .j{
+        background:coral;
+        color:  , red;
+        align-items: center;
+        margin: 0;
+        padding: 0;
+        }
+    a{
+        text-decoration: none;
+        color: black;
+     }
+    ul{
+        text-decoration: none;
+        text-align: center;
+        color: aliceblue;
+    }
+    nav{
+        min-height: 10vh;
+        display: -webkit-flex;
+        width: 90%;
+        margin: auto;
+        padding: 2rem;
+     }
+    nav ul {
+        display: flex;
+        flex: 1 1 40rem;
+        justify-content: space-around;
+        align-items: center;
+        list-style: none;
+        width: 90%;
+        margin: auto;
+        padding: 0rem;
+        
+    }
+     #logo{
+        flex: 1 1 40rem
+        }
+@media screen  (min-width: 1000px){
+    .box{
+        width: 100%;
+    }
+    
+}
+body{
+    background-image: url("IVV.jpeg");
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}

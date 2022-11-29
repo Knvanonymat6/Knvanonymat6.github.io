@@ -1,0 +1,63 @@
+body{
+    background-image: url("IVV.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+}
+.L{
+    color: blue;
+    font-size: 1cm;
+    text-align: center;
+}
+*{
+         margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    }     
+    html{
+    font-size: 62, 5%;
+    }
+.j{
+    background:coral;
+    color:  , red;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    }
+a{
+    text-decoration: none;
+    color: black;
+ }
+ul{
+    text-decoration: none;
+    text-align: center;
+    color: aliceblue;
+}
+nav{
+    min-height: 10vh;
+    display: -webkit-flex;
+    width: 90%;
+    margin: auto;
+    padding: 2rem;
+ }
+nav ul {
+    display: flex;
+    flex: 1 1 40rem;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    width: 90%;
+    margin: auto;
+    padding: 0rem;
+    
+}
+ #logo{
+    flex: 1 1 40rem
+    }
+    .lo{
+    
+        position: center;
+    }
+   

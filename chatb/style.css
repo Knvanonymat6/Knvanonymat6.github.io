@@ -1,0 +1,112 @@
+BODY{
+
+background-image: url("IVV.jpeg");
+height: 100vh;
+ background-position:  center;
+ background-size: cover;
+ background-repeat: repeat;
+ background-color: black;*/
+  }
+.k{
+}
+*{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+}     
+html{
+font-size: 62, 5%;
+}
+.k{
+text-align: center;
+text-shadow: 1px auto;
+height: 4cm;
+color: chartreuse;
+font-size: 3cm;
+
+}
+.M{
+text-align: center;
+height: 1cm;
+font-family: 'Times New Roman', Times, serif;
+}
+.H{
+background:coral;
+color:black;
+align-items: center;
+margin: 0;
+padding: 0;
+}
+a{
+text-decoration: none;
+color: black;
+}
+ul{
+text-decoration: none;
+text-align: center;
+color: aliceblue;
+}
+nav{
+min-height: 10vh;
+display: -webkit-flex;
+width: 90%;
+margin: auto;
+padding: 2rem;
+}
+nav ul {
+display: flex;
+flex: 1 1 40rem;
+justify-content: space-around;
+align-items: center;
+list-style: none;
+width: 90%;
+margin: auto;
+padding: 0rem;
+
+}
+#logo{
+flex: 1 1 40rem
+}
+.u{
+  text-align: center;
+  height: 2rem;
+}
+.pr{
+  text-align: center;
+}
+.o {
+height: 2rem
+
+}
+.r{
+  background-color: ;
+  color: brown;
+  height: 9rem;
+}
+.t{ 
+ color: red;
+  height: 4rem;
+}
+.v{
+  height: 4rem;
+}
+.er{
+  color: antiquewhite;
+  font-size: 0.9cm;
+}
+.ez{
+  color: antiquewhite;
+  font-size: 0.9cm;
+}
+.tg{
+  font-size: 0.6cm;
+}
+.yg{
+  font-size: 0.6cm;
+}
+.v{
+  font-size: 0.6cm;
+}
+.pl{
+  
+}

@@ -1,0 +1,133 @@
+/*.U{
+   margin: 0;
+   padding: 0;
+    width: 90em;
+    height: 100vh;
+    background-image: url("petite\ orange.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    background-attachment: scroll;
+    text-align: center;
+    text-indent: -5cm;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: lightcoral;
+
+}*/
+body{
+    background-image: url("GROUPE.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  height: 150vh;  
+}
+a{
+    text-decoration: none;
+    color: black;
+    }
+    ul{
+    text-decoration: none;
+    text-align: left;
+    color: aliceblue;
+    }
+    nav{
+    min-height: 10vh;
+    
+    width: 90%;
+    margin: auto;
+    padding: 1rem;
+    }
+    nav ul {
+    display: flex ;
+    flex: 1 1 40rem;
+    justify-content: space-around;*/
+    align-items: left;
+    list-style: none;
+    width: 90%;
+    /*margin: auto;*/
+    /*padding: 0rem;
+    
+    }
+    #logo{
+    /*flex: 1 1 40rem*/
+    text-align: center;
+    border: red;
+    }
+    .u{
+      text-align: justify;
+      height: 2rem;
+    }
+    *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+        }     
+        html{
+        font-size: 62, 5%;
+        }
+        .y{
+            
+            color: green;
+            font-size: 9vh;
+            text-align: center;*/
+           
+
+        }
+        .j{
+            background-color: yellow;
+        }
+        .z{
+            height: 1cm;
+            color: black;
+            text-align: center;
+        }
+        #logo{
+            flex: 1 1 40rem
+            }
+            .h{
+                height: 2cm;
+                background-color: lightyellow;
+            }
+            a:hover{
+                background-color: beige;
+            }
+            a::after{
+                background-color: aquamarine;
+            }
+            /*a:visited{
+                background-color: greenyellow;
+            }*/
+      
+       /* .po{
+            text-indent: 9cm;
+        }*/
+        .btn{
+            display: block;
+            margin: 190px auto 0;
+            font-size: 30px;
+        text-decoration: none;
+        font-weight: lighter;
+        color: aqua;
+        padding: 25px 80px;
+        background-color: burlywood;
+        outline: none;
+        border: none;
+        cursor: pointer;
+        border-radius: 20px;
+        position: relative;
+        box-shadow: 0 6px  blue ;
+        text-decoration: none;
+        
+        } 
+        .btn:hover{
+            box-shadow: 0 4px greenyellow;
+            top: 2px;
+        }
+        .btn:active{
+            box-shadow: 0 0 red ;
+            top: 6px;
+        }
